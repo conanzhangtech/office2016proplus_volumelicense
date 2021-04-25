@@ -9,7 +9,6 @@ cscript ospp.vbs /unpkey:CPQVG >nul
 cscript ospp.vbs /sethst:kms8.msguides.com
 cscript ospp.vbs /setprt:1688
 cscript ospp.vbs /act
-clear
-pause
+
 
 
