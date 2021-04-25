@@ -30,5 +30,5 @@ The KMS server is provided by msguides.com, I am in no way responsible for the r
 # CREDIT AND SUPPORT
 
 ## Guide provided by Guang Peng (https://msguides.com/author/guangpeng)
-## Guide improved using script by Conan Zhang (https://go.cyberyouth.sg/conan97zhang)
+## Guide improved and simplified using script by Conan Zhang (https://go.cyberyouth.sg/conan97zhang)
 ## Microsoft Office Deployment Kit provided by Microsoft Corporation.
