@@ -1,0 +1,19 @@
+<Configuration>
+  <Add OfficeClientEdition="64">
+    <Product ID="ProPlusRetail">
+      <Language ID="en-us" />
+        
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="InfoPath" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="Project" />
+      <ExcludeApp ID="Publisher" />
+      <ExcludeApp ID="SharePointDesigner" />
+      <ExcludeApp ID="Visio" />
+      <ExcludeApp ID="Skypeforbusiness" />
+      <ExcludeApp ID="Groove" />
+       
+    </Product>
+  </Add>
+  <Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>
