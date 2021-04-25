@@ -21,7 +21,7 @@ The KMS server is provided by msguides.com, I am in no way responsible for the r
 
 #### In this section, I will be explaining how install the Office2016 and activate it using Volume License.
 
-1. Run "setup.exe";
+1. Run "run.cmd";
 2. After successfully installed, run "activate_kms.bat" AS ADMINISTRATOR.
 3. Done!
 
